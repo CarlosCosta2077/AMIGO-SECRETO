@@ -1,7 +1,7 @@
   🎁 Amigo Secreto
 
 Um site simples e divertido para realizar sorteios de Amigo Secreto.
-Feito com HTML, CSS e JavaScript para praticar lógica de programação e manipulação do DOM.
+Feito com HTML, CSS e JavaScript para praticar lógica de programação.
 
   🚀 Funcionalidades
 
